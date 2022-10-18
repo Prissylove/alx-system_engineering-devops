@@ -44,7 +44,7 @@ configuration of the server using Nginx.
     * Features a custom 404 page containing the string `Ceci n'est pas une page`.
 
 * **5. Install Nginx web Server(w/Puppet)**
-  * [7-puppet_install_nginx_web_server.pp(./7-puppet_install_nginx_web_server.pp): Install and Configure an Nginx server using Puppet instead of Bash.
+  * [7-puppet_install_nginx_web_server.pp](./7-puppet_install_nginx_web_server.pp): Install and Configure an Nginx server using Puppet instead of Bash.
   * Requirements:
  ```
   Nginx should be listening on port 80
